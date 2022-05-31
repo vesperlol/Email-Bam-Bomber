@@ -3,6 +3,10 @@
 # Email-Bam-Bomber
 A python Email Bomber for gmail, yahoo and outlook (adding more at 20 stars on this repo)
 
+# Instal
+
+Open a command prompt and install pystyle : pip install pystyle
+
 # Usage
 
 If you are using gmail, active this : https://myaccount.google.com/lesssecureapps?
